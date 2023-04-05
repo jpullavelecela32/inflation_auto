@@ -10,12 +10,12 @@ h1 {
     color: black;
 }
 p {
+    text-align: center;
         line-height: 1.5em;
         font-size: 1.2em;
     }
     .my_dataviz
     {
-        display: flex;
-    max-width: 1000px;
-    padding: 15px;
+        width: 100%;
+        padding: 5px;
     }
