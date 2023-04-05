@@ -1,0 +1,21 @@
+body,
+html {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+p {
+        line-height: 1.5em;
+        font-size: 1.2em;
+    }
+    .my_dataviz
+    {
+        display: flex;
+    max-width: 1000px;
+    padding: 15px;
+    }
